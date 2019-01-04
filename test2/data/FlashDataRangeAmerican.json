@@ -1,0 +1,17 @@
+{			
+	"americanFormat":true,		
+	"dateRange":[		
+		{	
+			"startDate":"03/01/2019",
+			"endDate":"03/30/2020"
+		},	
+		{	
+			"startDate":"1/1/2019",
+			"endDate":"01/03/2019"
+    },
+    {	
+			"startDate":"1/1/2018",
+			"endDate":"01/30/2020"
+		}
+	]
+}
